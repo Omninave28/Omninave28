@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omninave28&theme=onedark" alt="Omninave28" /></a> </p>
 
-- 🔭 I’m currently working on **Crime Prediction**
-- 👯 I’m looking to collaborate on **B-Tech**
-- 🤝 I’m looking for help with **python**
 - 🌱 I’m currently learning **Ai Model Developer**
-- 💬 Ask me about **DSA**
 - 📫 How to reach me **ninaveom@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Om Ninave" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
