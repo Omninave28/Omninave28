@@ -3,8 +3,6 @@
 <h3 align="center"> AI Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Omninave28&label=Profile%20views&color=0e75b6&style=flat" alt="Omninave28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Omninave28&theme=onedark" alt="Omninave28" /></a> </p>
-
 - 🌱 I’m currently learning **Ai Model Developer**
 - 📫 How to reach me **ninaveom@gmail.com**
 
